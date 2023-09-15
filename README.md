@@ -48,3 +48,10 @@ After some consideration looking at our robot pieces, we decided to change our r
 ## Chassis Digital Model Sideview (Model #2) 
 
 ![chasis 2 sideview](https://github.com/Luca-Skyline/Ctrl-Alt-Defeat/assets/89172997/6c6a54d4-e229-4887-a1ef-cc4bbd1f578b)
+
+
+# Final Finished Chassis 
+
+![chasis topview(https://github.com/Kair12345/RoboticsPort/blob/main/images/top_chassis.JPG?raw=true) 
+
+![chasis topview(https://github.com/Kair12345/RoboticsPort/blob/main/images/top_chassis.JPG?raw=true)
