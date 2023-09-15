@@ -52,6 +52,6 @@ After some consideration looking at our robot pieces, we decided to change our r
 
 # Final Finished Chassis 
 
-![chasis topview(https://github.com/Kair12345/RoboticsPort/blob/main/images/top_chassis.JPG?raw=true) 
+![chasis topview](https://github.com/Kair12345/RoboticsPort/blob/main/images/top_chassis.JPG?raw=true) 
 
-![chasis topview(https://github.com/Kair12345/RoboticsPort/blob/main/images/top_chassis.JPG?raw=true)
+![chasis topview](https://github.com/Kair12345/RoboticsPort/blob/main/images/top_chassis.JPG?raw=true)
