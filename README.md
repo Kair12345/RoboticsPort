@@ -15,8 +15,6 @@ This is the most manuvurable of the chassis and can change directions without tu
 
 ![sideview](https://github.com/Kair12345/RoboticsPort/assets/89172997/334ada69-7048-48ff-8b18-eeb9c9d38ccf)
 
-![digital topdown](https://github.com/Luca-Skyline/Ctrl-Alt-Defeat/assets/89172997/5df6d273-ad81-4f9e-98a4-ca534b5a29e5)
-
 
 # Robot Progress 
 
